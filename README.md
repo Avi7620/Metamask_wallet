@@ -1,5 +1,5 @@
 #Metamask Connection
-click on connect button
+ :- click on connect button
 ![Screenshot 2024-08-11 200443](https://github.com/user-attachments/assets/722b01f8-b984-40d0-9e0d-b9340e47e48f)
 
 #Enter Password
